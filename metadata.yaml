@@ -1,0 +1,28 @@
+_repo: The-Last-Reformation_13330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, F. G. (Frederick George)
+    alias: Smith, Frederick George
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '5000'
+    url: http://www.gutenberg.org/2009/agents/5000
+description: ''
+gutenberg_issued: '2004-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mission of the church'
+- !lcsh 'Church -- Biblical teaching'
+- !lcc 'BV'
+title: The Last Reformation
+url: http://www.gutenberg.org/ebooks/13330
